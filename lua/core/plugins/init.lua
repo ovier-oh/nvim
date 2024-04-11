@@ -1,0 +1,6 @@
+require("core.plugins.nvim-tree")
+require("core.plugins.telescope")
+require("core.plugins.themes")
+require("core.plugins.lualine")
+require("core.plugins.lsp.mason")
+require("core.plugins.autopairs")
