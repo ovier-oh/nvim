@@ -40,7 +40,7 @@ return require('packer').startup(function(use)
   use "rafamadriz/friendly-snippets"
   use "saadparwaiz1/cmp_luasnip"
 
-  --LSP
+  --LSP packers
 use {
     'williamboman/mason.nvim',
     'williamboman/mason-lspconfig.nvim',
